@@ -2,7 +2,6 @@ import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import ProjectCard from "./ProjectCards";
 import Particle from "../Particle";
-import leaf from "../../Assets/Projects/leaf.png";
 import ideas_saas from "../../Assets/Projects/99ideas-saas.png";
 import newsapp from "../../Assets/Projects/newsapp.png";
 import textUtils from "../../Assets/Projects/textUtils.png";
