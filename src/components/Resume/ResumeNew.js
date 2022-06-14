@@ -7,7 +7,7 @@ import { AiOutlineDownload } from "react-icons/ai";
 import { Document, Page, pdfjs } from "react-pdf";
 import "react-pdf/dist/esm/Page/AnnotationLayer.css";
 pdfjs.GlobalWorkerOptions.workerSrc = `//cdnjs.cloudflare.com/ajax/libs/pdf.js/${pdfjs.version}/pdf.worker.min.js`;
-const host = "http://localhost:3000";
+// const host = "http://localhost:3000";
 const resumeLink =
   "https://full-stack-developer-arijit.netlify.app//static/media/ARIJIT_BANERJEE_CV.ab4b34848dc5825525d5.pdf";
 
